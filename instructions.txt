@@ -1,3 +1,5 @@
+Créé par: RAPANAKIS-BOURG Marius, KHALDI Nayla et MALOUM Youri
+
 Appuyez sur L pour faire apparaître un nouveau Lemming.
 Appuyez sur Espace pour mettre pause.
 Appuyez sur Q pour quitter le jeu.
