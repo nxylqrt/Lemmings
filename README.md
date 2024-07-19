@@ -1,1 +1,1 @@
-# Lemmings
+Projet créé dans le cadre du programme de NSI, en collaboration avec 2 camarades. Pour fonctionner, il faudra le lancer avec une IDE qui inclut ce module (Spyder ou Edupyther), ou l'installer manuellement sur VS code.
