@@ -1,0 +1,5 @@
+Appuyez sur L pour faire apparaître un nouveau Lemming.
+Appuyez sur Espace pour mettre pause.
+Appuyez sur Q pour quitter le jeu.
+
+(Ce programme fonctionne avec le module Pyxel, installé sur l'ide Spyder)
